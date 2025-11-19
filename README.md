@@ -1,4 +1,4 @@
-## Sean Hammond, Full Stack Software Developer
+# Sean Hammond, Full Stack Software Developer
 My main focus is making creative, well-structured app features using React, APIs, HTML/CSS/JavaScript, and more!
 
 ## 🏆 My Best Projects:
