@@ -7,14 +7,14 @@ My main focus is making creative and well-structured apps/features using React, 
 + [Certificate, Programming with JavaScript](https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e) (Meta, 2023)
 
 ### 💬 Languages
-★★★★☆   Semantic HTML,  CSS,  JavaScript,  JSX,  Bootstrap,  TI-BASIC
-★★★☆☆   Python,  Swift,  XML
-★☆☆☆☆   SQL,  Java,  C#
+★★★★☆   Semantic HTML,  CSS,  JavaScript,  JSX,  Bootstrap,  TI-BASIC  
+★★★☆☆   Python,  Swift,  XML  
+★☆☆☆☆   SQL,  Java,  C#  
 
 ### 🛠️ Skills
-★★★★☆   Front-End Development,  VSCode/Codespaces,  GitHub,  API Requests,  Creativity,  Detail Analysis
-★★★☆☆   Git,  Accessibility Standards,  Responsive Design
-★★☆☆☆   Building APIs,  Back-End Development
+★★★★☆   Front-End Development,  VSCode/Codespaces,  GitHub,  API Requests,  Creativity,  Detail Analysis  
+★★★☆☆   Git,  Accessibility Standards,  Responsive Design  
+★★☆☆☆   Building APIs,  Back-End Development  
 
 ### 🎨 Interests
-★★★★☆   Graphic Design,  Video Production,  Final Cut Pro,  Writing,  Video Game Development,  Board Game Design
+★★★★☆   Graphic Design,  Video Production,  Final Cut Pro,  Writing,  Video Game Development,  Board Game Design  
