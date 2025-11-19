@@ -1,5 +1,11 @@
 ## Sean Hammond, Full Stack Software Developer
-My main focus is making creative and well-structured apps/features using React, APIs, HTML/CSS/JavaScript, and more!
+My main focus is making creative, well-structured app features using React, APIs, HTML/CSS/JavaScript, and more!
+
+## 🏆 My Best Projects:
++ [To Do List](https://github.com/Sean-Hammond/sean-hammond-to-do-api-83) (saves even with page closed)
++ [Contact List](https://github.com/Sean-Hammond/sean-hammond-contact-list-83) (saves even with page closed)
++ [Random Playing Card Generator](https://github.com/Sean-Hammond/sean-hammond-random-card-83)
++ [Star Wars Blog](https://github.com/Sean-Hammond/sean-hammond-star-wars-blog-83)
 
 ### 🎓 Credentials:
 + BAAS, Mobile/Web Applications Development (Sam Houston State University, 2024)
