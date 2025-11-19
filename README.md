@@ -1,14 +1,14 @@
 # Sean Hammond, Full Stack Software Developer
-I'm excited about making creative, well-structured app features using React, APIs, HTML/CSS/JavaScript, and more!
+I'm super excited about creating structured, well-designed app features using React, APIs, HTML/CSS/JavaScript, and more!
 
 ## 🏆 My Best Projects:
 + [Protein Drink](https://sean-hammond.github.io/seahammond.github.io/) (Design, Team Collaboration)
-+ My Video Portfolio Site (React, embedded video) **Coming soon!**  
 + [To Do List](https://github.com/Sean-Hammond/sean-hammond-to-do-api-83) (React, APIs, filter function)
 + [Contact List](https://github.com/Sean-Hammond/sean-hammond-contact-list-83) (React, APIs)
 + [Random Playing Card Generator](https://github.com/Sean-Hammond/sean-hammond-random-card-83) (Event Listeners)
 + [Star Wars Blog](https://github.com/Sean-Hammond/sean-hammond-star-wars-blog-83) (React, APIs)
-+ [Photo Feed](https://github.com/Sean-Hammond/sean-hammond-photo-feed) (Bootstrap)
++ [Photo Feed](https://github.com/Sean-Hammond/sean-hammond-photo-feed) (Bootstrap)  
++ My Video Portfolio Site (React, embedded video) **Coming soon!**  
 
 ### 🎓 Credentials:
 + BAAS, Mobile/Web Applications Development (Sam Houston State University, 2024)
@@ -16,19 +16,26 @@ I'm excited about making creative, well-structured app features using React, API
 + [Certificate, Programming with JavaScript](https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e) (Meta, 2023)
 
 ### 💬 Languages
-+ ★★★★☆   Semantic HTML,  CSS,  JavaScript,  JSX,  Bootstrap  
-+ ★★★☆☆   Python,  Swift,  XML  
-+ ★★☆☆☆   SQL,  Java,  C#  
++ ★★★★☆ Semantic HTML, CSS, JavaScript, JSX, Bootstrap  
++ ★★★☆☆ Python, Swift, XML  
++ ★★☆☆☆ SQL, Java, C#, Node.JS, Terminal / Command Line, Git  
 
-### 🛠️ Skills
-+ ★★★★☆   Front-End Development, VSCode/Codespaces, GitHub, API Requests, Creativity, Detail Analysis, MacOS, Windows, Excel  
-+ ★★★☆☆   Git,  Accessibility Standards,  Responsive Design  
-+ ★★☆☆☆   Building APIs,  Back-End Development  
+### 🛠️ Tools
++ ★★★★☆ React, APIs, VSCode/Codespaces, GitHub, MacOS, Windows, iOS, iPadOS, ChromeOS, Excel  
++ ★★★☆☆ XCode, Android Studio   
++ ★★☆☆☆ Notion, SAP Accounting Software, SharePoint  
+
+### 🏅 Skills
++ ★★★★☆ Creativity, Detail Analysis, Deep Focus, Collaboration,  Front-End Development
++ ★★★☆☆ Accessibility Standards, Responsive Design, Embedded Code  
++ ★★☆☆☆ Back-End Development  
 
 ### 🎨 Interests
-+ ★★★★★   Graphic Design,  Video Production,  Final Cut Pro,  Writing,  Video Game Development,  Board Game Design, TI-BASIC  
++ ★★★★★ Graphic Design, Video Production, Final Cut Pro, Writing, Video Game Development, Board Game Design, TI-BASIC  
 
 ### ✉️ Contact
 + 🔗 **LinkedIn**.com/in/sean-w-hammond
 + 📧 **Email**: swhammond2@outlook.com  
-**Contact policy**: Due to time constraints (uninterrupted coding 👨‍💻), I do not reply to all messages. **Please include all relevant information in your message**, and do not expect an immediate response. Thank you!
+**Contact policy**: Due to time constraints (uninterrupted coding 👨‍💻), I do not reply to all messages. **Please include all relevant information in your message**, and do not expect an immediate response. For further explanation, check out *Deep Work* by Cal Newport. Thank you!
+
+
