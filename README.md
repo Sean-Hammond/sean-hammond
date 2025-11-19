@@ -3,8 +3,7 @@
 ## Credentials:
 ## -- BAAS, Mobile/Web Applications Development (Sam Houston State University, 2024)
 ## -- Certificate, Full Stack Software Developer with AI (4Geeks Academy, 2026)
-## -- Certificate, Programming with JavaScript (Meta, 2023)
-<href src="https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e">
+## -- Certificate, Programming with JavaScript (Meta, 2023) -- https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e
 
 <!--
 **Sean-Hammond/sean-hammond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
