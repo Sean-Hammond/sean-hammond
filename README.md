@@ -6,6 +6,12 @@ My main focus is making creative and well-structured apps/features using React, 
 + Certificate, Full Stack Software Developer with AI (4Geeks Academy, 2026)
 + [Certificate, Programming with JavaScript](https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e) (Meta, 2023)
 
+
+| Skill      | Proficiency |
+| ----------- | ----------- |
+| Semantic HTML      | Title |
+| Paragraph   | First paragraph |
+
 ### 💬 Languages
 + Actively Using:
   + Semantic HTML
