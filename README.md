@@ -13,20 +13,9 @@ My main focus is making creative and well-structured apps/features using React, 
 | Paragraph   | First paragraph |
 
 ### 💬 Languages
-+ Actively Using:
-  + Semantic HTML
-  + CSS
-  + JavaScript/JSX
-  + Bootstrap
-+ Currently Learning:
-  + Python
-  + SQL
-+ Previously Used:
-  + Java
-  + C#
-  + XML
-  + Swift
-  + TI-BASIC
++ **Actively Using**: Semantic HTML; CSS; JavaScript/JSX, Bootstrap
++ **Still Learning**: Python; SQL
++ **Previously Worked With**: Java; C#; XML; Swift; TI-BASIC
 
 ### 🛠️ Skills
 + Actively Using:
