@@ -7,7 +7,7 @@ My main focus is making creative and well-structured apps/features using React, 
 + [Certificate, Programming with JavaScript](https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e) (Meta, 2023)
 
 ### 💬 Languages
-★★★★☆   Semantic HTML,  CSS,  JavaScript,  JSX,  Bootstrap,  TI-BASIC  
+★★★★☆   Semantic HTML,  CSS,  JavaScript,  JSX,  Bootstrap
 ★★★☆☆   Python,  Swift,  XML  
 ★☆☆☆☆   SQL,  Java,  C#  
 
@@ -17,4 +17,4 @@ My main focus is making creative and well-structured apps/features using React, 
 ★★☆☆☆   Building APIs,  Back-End Development  
 
 ### 🎨 Interests
-★★★★☆   Graphic Design,  Video Production,  Final Cut Pro,  Writing,  Video Game Development,  Board Game Design  
+★★★★☆   Graphic Design,  Video Production,  Final Cut Pro,  Writing,  Video Game Development,  Board Game Design, TI-BASIC
