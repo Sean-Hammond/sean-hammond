@@ -1,7 +1,8 @@
 # Sean Hammond, Full Stack Software Developer
-My main focus is making creative, well-structured app features using React, APIs, HTML/CSS/JavaScript, and more!
+I'm excited about making creative, well-structured app features using React, APIs, HTML/CSS/JavaScript, and more!
 
 ## 🏆 My Best Projects:
++ My Video Portfolio Site (coming soon!)
 + [To Do List](https://github.com/Sean-Hammond/sean-hammond-to-do-api-83) (React, APIs)
 + [Contact List](https://github.com/Sean-Hammond/sean-hammond-contact-list-83) (React, APIs)
 + [Random Playing Card Generator](https://github.com/Sean-Hammond/sean-hammond-random-card-83) (Event Listeners)
@@ -16,7 +17,7 @@ My main focus is making creative, well-structured app features using React, APIs
 ### 💬 Languages
 + ★★★★☆   Semantic HTML,  CSS,  JavaScript,  JSX,  Bootstrap  
 + ★★★☆☆   Python,  Swift,  XML  
-+ ★☆☆☆☆   SQL,  Java,  C#  
++ ★★☆☆☆   SQL,  Java,  C#  
 
 ### 🛠️ Skills
 + ★★★★☆   Front-End Development, VSCode/Codespaces, GitHub, API Requests, Creativity, Detail Analysis, MacOS, Windows, Excel  
@@ -24,9 +25,9 @@ My main focus is making creative, well-structured app features using React, APIs
 + ★★☆☆☆   Building APIs,  Back-End Development  
 
 ### 🎨 Interests
-+ ★★★★☆   Graphic Design,  Video Production,  Final Cut Pro,  Writing,  Video Game Development,  Board Game Design, TI-BASIC
++ ★★★★★   Graphic Design,  Video Production,  Final Cut Pro,  Writing,  Video Game Development,  Board Game Design, TI-BASIC  
 
-### ✉️ 🔗Contact
-+ **LinkedIn**.com/in/sean-w-hammond/
-+ **Email**: swhammond2@outlook.com  
+### ✉️ Contact
++ 🔗 **LinkedIn**.com/in/sean-w-hammond
++ 📧 **Email**: swhammond2@outlook.com  
 **Contact policy**: Due to time constraints (uninterrupted coding 👨‍💻), I do not reply to all messages. **Please include all relevant information in your message**, and do not expect an immediate response. Thank you!
