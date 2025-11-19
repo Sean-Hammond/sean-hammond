@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Sean Hammond, a Full Stack Software Developer, focusing on making creative and well-structured applications/features from scratch using React.JSX, APIs, HTML/CSS, and more!
 
 <!--
 **Sean-Hammond/sean-hammond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
