@@ -24,3 +24,8 @@ My main focus is making creative, well-structured app features using React, APIs
 
 ### 🎨 Interests
 + ★★★★☆   Graphic Design,  Video Production,  Final Cut Pro,  Writing,  Video Game Development,  Board Game Design, TI-BASIC
+
+### Contact
++ **LinkedIn**.com/in/sean-w-hammond/
++ **Email**: swhammond2@outlook.com
+**Contact policy**: Due to time constraints (uninterrupted coding 👨‍💻), I do not reply to all messages. **Please include all relevant information in your message**, and do not expect an immediate response. Thank you!
