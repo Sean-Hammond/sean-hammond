@@ -7,8 +7,31 @@ My main focus is making creative and well-structured apps/features using React, 
 + [Certificate, Programming with JavaScript](https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e) (Meta, 2023)
 
 ### 💬 Languages
-+ ⭐️⭐️⭐️⭐️★☆ Semantically correct HTML
-+ ⭐️⭐️⭐️⭐️ CSS
-+ JavaScript / JSX
-+ Bootstrap
-+ Java
++ Actively Using:
+++ ★★★★☆ Semantically correct HTML
+++ ★★★★☆ CSS
+++ ★★★☆☆ JavaScript / JSX
+++ ★★★★☆ Bootstrap
++ Currently Learning:
+++ ★★★☆☆ Python
+++ ★☆☆☆☆ SQL
++ Exposure To:
+++ ★★☆☆☆ Java
+++ ★★☆☆☆ C#
+++ ★★★☆☆ XML
+++ ★★☆☆☆ Swift
+++ ★★★★★ TI-BASIC
+
+### 🛠️ Skills
++ ★★★★☆ Front End Development
++ ★★★☆☆ Back End Development (in progress)
++ ★★★☆☆ APIs
++ ★★★☆☆ Accessibility Standards
++ ★★★☆☆ Responsive Design
++ ★★★★☆ VSCode
++ ★★★☆☆ GitHub
++ ★★★★☆ Graphic Design
++ ★★★★★ Video Editing
++ ★★★★★ Writing
++ ★★★★★ Creativity
++ ★★★★★ Detail Analysis
