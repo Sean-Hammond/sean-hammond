@@ -8,30 +8,32 @@ My main focus is making creative and well-structured apps/features using React, 
 
 ### 💬 Languages
 + Actively Using:
-  + ★★★★☆ Semantically correct HTML
-   ★★★★☆ CSS
-  + ★★★☆☆ JavaScript / JSX
-  + ★★★★☆ Bootstrap
+  + Semantic HTML
+  + CSS
+  + JavaScript/JSX
+  + Bootstrap
 + Currently Learning:
-  + ★★★☆☆ Python
-  + ★☆☆☆☆ SQL
-+ Exposure To:
-  + ★★☆☆☆ Java
-  + ★★☆☆☆ C#
-  + ★★★☆☆ XML
-  + ★★☆☆☆ Swift
-  + ★★★★★ TI-BASIC
+  + Python
+  + SQL
++ Previously Used:
+  + Java
+  + C#
+  + XML
+  + Swift
+  + TI-BASIC
 
 ### 🛠️ Skills
-+ ★★★★☆ Front End Development
-+ ★★★☆☆ Back End Development (in progress)
-+ ★★★☆☆ APIs
-+ ★★★☆☆ Accessibility Standards
-+ ★★★☆☆ Responsive Design
-+ ★★★★☆ VSCode
-+ ★★★☆☆ GitHub
-+ ★★★★☆ Graphic Design
-+ ★★★★★ Video Editing
-+ ★★★★★ Writing
-+ ★★★★★ Creativity
-+ ★★★★★ Detail Analysis
++ Actively Using:
+  + Front End Development
+  + APIs
+  + VSCode/Codespaces
+  + GitHub
+  + Graphic Design
+  + Video Editing
+  + Writing
+  + Creativity
+  + Detail Analysis
++ Currently Learning:
+  + Back End Development
+  + Accessibility Standards
+  + Responsive Design
