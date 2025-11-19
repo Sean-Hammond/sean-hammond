@@ -2,10 +2,11 @@
 My main focus is making creative, well-structured app features using React, APIs, HTML/CSS/JavaScript, and more!
 
 ## 🏆 My Best Projects:
-+ [To Do List](https://github.com/Sean-Hammond/sean-hammond-to-do-api-83) (saves even with page closed)
-+ [Contact List](https://github.com/Sean-Hammond/sean-hammond-contact-list-83) (saves even with page closed)
-+ [Random Playing Card Generator](https://github.com/Sean-Hammond/sean-hammond-random-card-83)
-+ [Star Wars Blog](https://github.com/Sean-Hammond/sean-hammond-star-wars-blog-83)
++ [To Do List](https://github.com/Sean-Hammond/sean-hammond-to-do-api-83) (React, APIs)
++ [Contact List](https://github.com/Sean-Hammond/sean-hammond-contact-list-83) (React, APIs)
++ [Random Playing Card Generator](https://github.com/Sean-Hammond/sean-hammond-random-card-83) (Event Listeners)
++ [Star Wars Blog](https://github.com/Sean-Hammond/sean-hammond-star-wars-blog-83) (React, APIs)
++ [Photo Feed](https://github.com/Sean-Hammond/sean-hammond-photo-feed) (Bootstrap)
 
 ### 🎓 Credentials:
 + BAAS, Mobile/Web Applications Development (Sam Houston State University, 2024)
@@ -25,7 +26,7 @@ My main focus is making creative, well-structured app features using React, APIs
 ### 🎨 Interests
 + ★★★★☆   Graphic Design,  Video Production,  Final Cut Pro,  Writing,  Video Game Development,  Board Game Design, TI-BASIC
 
-### Contact
+### ✉️ 🔗Contact
 + **LinkedIn**.com/in/sean-w-hammond/
-+ **Email**: swhammond2@outlook.com
++ **Email**: swhammond2@outlook.com  
 **Contact policy**: Due to time constraints (uninterrupted coding 👨‍💻), I do not reply to all messages. **Please include all relevant information in your message**, and do not expect an immediate response. Thank you!
