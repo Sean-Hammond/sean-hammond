@@ -1,21 +1,7 @@
-## Hi, I'm Sean Hammond, a Full Stack Software Developer, focusing on making creative and well-structured applications/features from scratch using React.JSX, APIs, HTML/CSS, and more!
+## Sean Hammond, Full Stack Software Developer
+My main focus is making creative and well-structured apps/features using React, APIs, HTML/CSS/JavaScript, and more!
 
-Credentials:
-BAAS, Mobile/Web Applications Development (Sam Houston State University, 2024)
-Certificate, Full Stack Software Developer with AI (4Geeks Academy, 2026)
-[Certificate, Programming with JavaScript](https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e) (Meta, 2023)
-
-<!--
-**Sean-Hammond/sean-hammond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Credentials:
++ BAAS, Mobile/Web Applications Development (Sam Houston State University, 2024)
++ Certificate, Full Stack Software Developer with AI (4Geeks Academy, 2026)
++ [Certificate, Programming with JavaScript](https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e) (Meta, 2023)
