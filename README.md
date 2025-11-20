@@ -33,8 +33,12 @@ I'm super excited about creating structured, well-designed app features using Re
 ### 🎨 Interests
 + ★★★★★ Graphic Design, Video Production, Final Cut Pro, Writing, Video Game Development, Board Game Design, TI-BASIC  
 
-### ✉️ Contact
+### 🌐 Other Profiles
 + 🔗 **LinkedIn**.com/in/sean-w-hammond
++ ▶️ **YouTube**: Coming soon
+
+### ✉️ Contact
++ 👍 **Social Media**: None
 + 📧 **Email**: swhammond2@outlook.com  
 **Contact policy**: Due to time constraints (uninterrupted coding 👨‍💻), I do not reply to all messages. **Please include all relevant information in your message**, and do not expect an immediate response. For further explanation, check out *Deep Work* by Cal Newport. Thank you!
 
