@@ -4,7 +4,7 @@ I'm super excited about creating structured, well-designed app features using Re
 ## 🏆 My Best Projects:
 + [Protein Drink](https://sean-hammond.github.io/seahammond.github.io/) **<<LIVE SITE!** (Design, Team Collaboration)  
 + [Custom Spinning Logo](https://sites.google.com/view/spinning-logo?usp=sharing) **<<LIVE SITE!** (CSS Animations, Design)
-+ [Random Playing Card Generator](https://github.com/Sean-Hammond/sean-hammond-random-card-83) | **[VIDEO](https://www.youtube.com/watch?v=qG5D-IJrdiE):** (Event Listeners)
++ [Random Playing Card Generator](https://github.com/Sean-Hammond/sean-hammond-random-card-83) (Event Listeners) | **[VIDEO](https://www.youtube.com/watch?v=qG5D-IJrdiE)**
 + [To Do List](https://github.com/Sean-Hammond/sean-hammond-to-do-api-83) (React, APIs, filter function)
 + [Contact List](https://github.com/Sean-Hammond/sean-hammond-contact-list-83) (React, APIs)
 + [Star Wars Blog](https://github.com/Sean-Hammond/sean-hammond-star-wars-blog-83) (React, APIs)
