@@ -35,8 +35,8 @@ I'm super excited about creating structured, well-designed app features using Re
 + ★★★★★ Graphic Design, Video Production, Final Cut Pro, Writing, Video Game Development, Board Game Design, TI-BASIC  
 
 ### 🌐 Other Profiles
-+ 🔗 **LinkedIn**.com/in/sean-w-hammond
-+ ▶️ **YouTube**: Coming soon
++ 🔗 [**LinkedIn**.com/in/sean-w-hammond](https://www.linkedin.com/in/sean-w-hammond/)
++ ▶️ [**YouTube**.com/@HammondSoftware](https://www.youtube.com/@hammondsoftware) ***NEW!!***
 
 ### ✉️ Contact
 + 👍 **Social Media**: None
