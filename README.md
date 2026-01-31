@@ -22,7 +22,7 @@ I'm super excited about creating structured, well-designed app features using Re
 + ★★☆☆☆ SQL, Java, C#, Node.JS, Terminal / Command Line, Git  
 
 ### 🛠️ Tools
-+ ★★★★☆ React, APIs, VSCode/Codespaces, GitHub, MacOS, Windows, iOS, iPadOS, ChromeOS, Excel  
++ ★★★★☆ React (JS Library), APIs, VSCode/Codespaces, GitHub, MacOS, Windows, iOS, iPadOS, ChromeOS, Excel  
 + ★★★☆☆ XCode, Android Studio   
 + ★★☆☆☆ Notion, SAP Accounting Software, SharePoint  
 
