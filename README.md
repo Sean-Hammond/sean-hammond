@@ -12,15 +12,18 @@
 + [Hammond Studios Animated Logo](https://sites.google.com/view/spinning-logo?usp=sharing) **<<LIVE SITE!** (CSS Animation)
 + [Agua Swole Protein Drink](https://sean-hammond.github.io/seahammond.github.io/) **<<LIVE SITE!** (Collaboration)
 
-## 🥇 Main Skills
+## 🥇 Current Skills
 + **React**
 + **JavaScript**
 + **APIs**
 + **Bootstrap**
 + **Git/GitHub**
 + **Video Editing**
++ **Creativity**
++ **Detail Analysis**
++ **Collaboration**
 
-## 🥈 Other Skills
+## 🥈 Prior Exposure To
 + **Python**
 + **SQL**
 + **Node.JS**
@@ -32,9 +35,6 @@
 + **Responsive Design**
 + **SAP**
 + **Excel**
-+ **Creativity**
-+ **Detail Analysis**
-+ **Collaboration**
 
 ## 🎓 Credentials:
 + BAAS, Mobile/Web Applications Development (Sam Houston State University, 2021-24)
