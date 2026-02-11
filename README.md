@@ -3,14 +3,14 @@
 
 
 ## 💼 Projects:
-+ [To Do List](https://github.com/Sean-Hammond/sean-hammond-to-do-api-83) (React, APIs, JavaScript filtering)
++ [To Do App](https://github.com/Sean-Hammond/sean-hammond-to-do-api-83) (React, APIs, JavaScript filtering)
 + [Contact List](https://github.com/Sean-Hammond/sean-hammond-contact-list-83) (React, APIs)
 + [Star Wars Blog](https://github.com/Sean-Hammond/sean-hammond-star-wars-blog-83) (React, APIs)
 + Films Database (React) **Coming soon!**
-+ [Random Playing Card Generator](https://github.com/Sean-Hammond/sean-hammond-random-card-83) (JavaScript DOM) | **Video coming soon**
-+ [Photo Feed](https://github.com/Sean-Hammond/sean-hammond-photo-feed) (Bootstrap)
-+ [Custom Spinning Logo](https://sites.google.com/view/spinning-logo?usp=sharing) **<<LIVE SITE!** (CSS Animation)
-+ [Protein Drink](https://sean-hammond.github.io/seahammond.github.io/) **<<LIVE SITE!** (Collaboration)
++ [Playing Card App](https://github.com/Sean-Hammond/sean-hammond-random-card-83) (JavaScript DOM) | **Video coming soon**
++ [Clifton City Photos](https://github.com/Sean-Hammond/sean-hammond-photo-feed) (Bootstrap)
++ [Hammond Studios Animated Logo](https://sites.google.com/view/spinning-logo?usp=sharing) **<<LIVE SITE!** (CSS Animation)
++ [Agua Swole Protein Drink](https://sean-hammond.github.io/seahammond.github.io/) **<<LIVE SITE!** (Collaboration)
 
 ## 🥇 Main Skills
 + **React** (2025-Now)
