@@ -11,15 +11,23 @@ React developer | JavaScript, APIs, Bootstrap
 + [Custom Spinning Logo](https://sites.google.com/view/spinning-logo?usp=sharing) **<<LIVE SITE!** (CSS Animation)
 + [Protein Drink](https://sean-hammond.github.io/seahammond.github.io/) **<<LIVE SITE!** (Collaboration)
 
+## ⚙️ Skills
++ **JavaScript** (2023-Now)
++ **Bootstrap** (2025-Now)
++ **Python** (2023-Now)
++ **Swift & iOS** (2024)
++ **Java/XML & Android** (2023-24)
++ **SQL** (2026)
++ **Java** (2023-24)
++ **C#** (2024)
++ **Node.JS** (2023)
++ **Terminal / Command Line** (2025-Now)
++ **Git/GitHub** (2025-Now)
+
 ## 🎓 Credentials:
 + BAAS, Mobile/Web Applications Development (Sam Houston State University, 2024)
 + Certificate, Full Stack Software Developer with AI (4Geeks Academy, 2026)
 + [Certificate, Programming with JavaScript](https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e) (Meta, 2023)
-
-## 💬 Languages
-+ ★★★★☆ Semantic HTML, CSS, JavaScript, JSX, Bootstrap  
-+ ★★★☆☆ Python, Swift, XML  
-+ ★★☆☆☆ SQL, Java, C#, Node.JS, Terminal / Command Line, Git  
 
 ## 🛠️ Tools
 + ★★★★☆ React (JS Library), APIs, VSCode/Codespaces, GitHub, MacOS, Windows, iOS, iPadOS, ChromeOS, Excel  
