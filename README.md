@@ -1,4 +1,4 @@
-# Sean Hammond, **React (JavaScript, APIs, Bootsrap)**
+# Sean Hammond, *React Developer | JavaScript, APIs, Bootsrap*
 📧 swhammond2@outlook.com | 🔗 [LinkedIn](https://www.linkedin.com/in/sean-w-hammond/) | ▶️ [YouTube](https://www.youtube.com/@hammondsoftware)
 
 
@@ -13,22 +13,21 @@
 + [Agua Swole Protein Drink](https://sean-hammond.github.io/seahammond.github.io/) **<<LIVE SITE!** (Collaboration)
 
 ## 🥇 Main Skills
-+ **React** (2025-Now)
-+ **JavaScript** (2023-Now)
-+ **APIs** (2025-Now)
-+ **Bootstrap** (2025-Now)
-+ **Git/GitHub** (2025-Now)
-+ **Video Editing** (2013-Now)
++ **React**
++ **JavaScript**
++ **APIs**
++ **Bootstrap**
++ **Git/GitHub**
++ **Video Editing**
 
 ## 🥈 Other Skills
-+ **Python** (2023-Now)
-+ **Swift & iOS** (2024)
-+ **Java/XML & Android** (2023-24)
-+ **SQL** (2026)
-+ **Java** (2023-24)
-+ **C#** (2024)
-+ **Node.JS** (2023)
-+ **Terminal / Command Line** (2025-Now)
++ **Python**
++ **SQL**
++ **Node.JS**
++ **Swift & iOS**
++ **Java/XML & Android**
++ **C#**
++ **Terminal / Command Line**
 + **Web Accessibility**
 + **Responsive Design**
 + **SAP**
