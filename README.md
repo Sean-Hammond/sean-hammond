@@ -23,7 +23,7 @@
 + **Detail Analysis**
 + **Collaboration**
 
-## 🥈 Prior Exposure To
+## 🥈 Previously Used
 + **Python**
 + **SQL**
 + **Node.JS**
@@ -34,6 +34,7 @@
 + **Web Accessibility**
 + **Responsive Design**
 + **SAP**
++ **Spanish**
 + **Excel**
 
 ## 🎓 Credentials:
