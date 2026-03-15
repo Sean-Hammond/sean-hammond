@@ -1,5 +1,4 @@
-# Sean Hammond, Full-Stack Developer
-## *(ReactJS | JavaScript, Python, APIs)*
+# Sean Hammond, Full-Stack Developer *(ReactJS, JavaScript, Python)*
 📧 swhammond2@outlook.com | 🔗 [LinkedIn](https://www.linkedin.com/in/sean-w-hammond/) | ▶️ [YouTube](https://www.youtube.com/@hammondsoftware)
 
 
