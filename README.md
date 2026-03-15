@@ -1,4 +1,4 @@
-# Sean Hammond, *React Developer | JavaScript, APIs, Bootsrap*
+# Sean Hammond, Full-Stack Developer *(ReactJS | JavaScript, Python, APIs)*
 📧 swhammond2@outlook.com | 🔗 [LinkedIn](https://www.linkedin.com/in/sean-w-hammond/) | ▶️ [YouTube](https://www.youtube.com/@hammondsoftware)
 
 
@@ -16,6 +16,7 @@
 + **React**
 + **JavaScript**
 + **APIs**
++ **Markdown**
 + **Bootstrap**
 + **Git/GitHub**
 + **Video Editing**
