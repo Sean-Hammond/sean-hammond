@@ -36,7 +36,7 @@ I'm currently updating this list. Some links currently point to old versions. St
 ## 🎓 Credentials:
 + BAAS, Mobile/Web Applications Development (Sam Houston State University, 2021-24)
 + [Certified Full Stack Software Developer](https://certificate.4geeks.com/baae16417ae57663f202bbca8ec51cc36aa6f659) (4Geeks Academy, 2025-26)
-+ Certificate, Full Stack Software Developer with AI (4Geeks Academy, 2025-26)
++ Certificate, Full Stack with AI (4Geeks Academy, 2026-Present)
 + [Certificate, Programming with JavaScript](https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e) (Meta, 2023)
 + [Introduction to Front-End Development](https://www.coursera.org/account/accomplishments/verify/HHVXAPMBYT4M) (Meta, 2023)
 + [Version Control](https://www.coursera.org/account/accomplishments/verify/FJHM2L5YDMAA) (Meta, 2023)
