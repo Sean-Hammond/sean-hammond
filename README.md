@@ -4,6 +4,7 @@
 
 ## 💼 Projects:
 I'm currently updating this list. Some links currently point to old versions. Stay tuned for the updates!
++ Platera, rebuilding a marketing app for Latin Grill in Tampa, FL
 + [To Do App](https://github.com/Sean-Hammond/sean-hammond-to-do-api-83) (React, APIs, JavaScript filtering)
 + [Contact List](https://github.com/Sean-Hammond/sean-hammond-contact-list-83) (React, APIs)
 + [Star Wars Blog](https://github.com/Sean-Hammond/sean-hammond-star-wars-blog-83) (React, APIs)
