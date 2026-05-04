@@ -34,6 +34,10 @@ I'm currently updating this list. Some links currently point to old versions. St
 + **Web Accessibility**
 + **Responsive Design**
 
+## 😀 Eager to Learn
++ React Native
++ Notion
+
 ## 🎓 Credentials:
 + BAAS, Mobile/Web Applications Development (Sam Houston State University, 2021-24)
 + [Certified Full Stack Software Developer](https://certificate.4geeks.com/baae16417ae57663f202bbca8ec51cc36aa6f659) (4Geeks Academy, 2025-26)
