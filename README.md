@@ -14,22 +14,14 @@ I'm currently updating this list. Some links currently point to old versions. St
 + [Hammond Studios Animated Logo](https://sites.google.com/view/spinning-logo?usp=sharing) **<<LIVE SITE!** (CSS Animation)
 + [Agua Swole Protein Drink](https://sean-hammond.github.io/seahammond.github.io/) **<<LIVE SITE!** (Collaboration)
 
-## Skills
-[**React**](https://github.com/stars/Sean-Hammond/lists/sean-hammond-react-portfolio) | **JavaScript** | [**Python**](https://github.com/stars/Sean-Hammond/lists/sean-hammond-python-portfolio) | **REST APIs** | **Flask** | **SQLite** | **Bootstrap** | **Video Editing** | **Markdown**
+## Active Skills
+[React](https://github.com/stars/Sean-Hammond/lists/sean-hammond-react-portfolio) | JavaScript | [**Python**](https://github.com/stars/Sean-Hammond/lists/sean-hammond-python-portfolio) | REST APIs | Flask | SQLite | Bootstrap | Markdown | Video Editing
 
-## 🥈 Familiar With
-+ **Agentic Development**
-+ **SQL**
-+ **Node.JS**
-+ **Swift & iOS**
-+ **Java/XML & Android**
-+ **C#**
-+ **Web Accessibility**
-+ **Responsive Design**
+## Familiar With
+Jest | Web Accessibility | Responsive Design | Node.JS | Swift (iOS) | Java/XML (Android) | C# | Replit
 
-## 😀 Eager to Learn
-+ React Native
-+ Notion
+## Eager to Learn
+TypeScript | TailwindCSS | React Native | Notion 
 
 ## 🎓 Credentials:
 + BAAS, Mobile/Web Applications Development (Sam Houston State University, 2021-24)
