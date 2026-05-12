@@ -14,15 +14,8 @@ I'm currently updating this list. Some links currently point to old versions. St
 + [Hammond Studios Animated Logo](https://sites.google.com/view/spinning-logo?usp=sharing) **<<LIVE SITE!** (CSS Animation)
 + [Agua Swole Protein Drink](https://sean-hammond.github.io/seahammond.github.io/) **<<LIVE SITE!** (Collaboration)
 
-## 🥇 Active Skills
-+ [**React**](https://github.com/stars/Sean-Hammond/lists/sean-hammond-react-portfolio)
-+ **JavaScript**
-+ [**Python**](https://github.com/stars/Sean-Hammond/lists/sean-hammond-python-portfolio)
-+ **REST APIs**
-+ **Flask**
-+ **Bootstrap**
-+ **Video Editing**
-+ **Markdown**
+## Skills
+[**React**](https://github.com/stars/Sean-Hammond/lists/sean-hammond-react-portfolio) | **JavaScript** | [**Python**](https://github.com/stars/Sean-Hammond/lists/sean-hammond-python-portfolio) | **REST APIs** | **Flask** | **SQLite** | **Bootstrap** | **Video Editing** | **Markdown**
 
 ## 🥈 Familiar With
 + **Agentic Development**
