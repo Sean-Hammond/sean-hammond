@@ -3,25 +3,27 @@
 
 
 ## 💼 Projects:
-I'm currently updating this list. Some links currently point to old versions. Stay tuned for the updates!
-+ Platera, rebuilding a marketing app for Latin Grill in Tampa, FL
-+ [To Do App](https://github.com/Sean-Hammond/sean-hammond-to-do-api-83) (React, APIs, JavaScript filtering)
-+ [Contact List](https://github.com/Sean-Hammond/sean-hammond-contact-list-83) (React, APIs)
-+ [Star Wars Blog](https://github.com/Sean-Hammond/sean-hammond-star-wars-blog-83) (React, APIs)
-+ Films Database (React) **Coming soon!**
-+ [Playing Card App](https://github.com/Sean-Hammond/sean-hammond-random-card-83) (JavaScript DOM) | **Video coming soon**
++ [Platera](https://www.linkedin.com/feed/update/urn:li:activity:7459677528215945216/), building a marketing app for Latin Grill in Tampa, FL ([React](https://github.com/stars/Sean-Hammond/lists/sean-hammond-react-portfolio), [JS](https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e), [Python](https://github.com/stars/Sean-Hammond/lists/sean-hammond-python-portfolio), REST APIs, Flask, [SQLite](https://www.youtube.com/playlist?list=PLsuedY1SCNGsgUDo5yTGzQdhtIiEDxbRm), Bootstrap)
++ [To Do App](https://github.com/Sean-Hammond/react-fetch-api-todo-sean-hammond-mi89) ([React](https://github.com/stars/Sean-Hammond/lists/sean-hammond-react-portfolio), APIs, [JS](https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e) filter() and map() methods)
++ [Contact List]([https://github.com/Sean-Hammond/sean-hammond-contact-list-83](https://github.com/Sean-Hammond/react-router-contextapi-contacts-sean-hammond-mi89)) (React, APIs)
+  + Uses
++ [Film Studio Database]([https://github.com/Sean-Hammond/sean-hammond-star-wars-blog-83](https://github.com/Sean-Hammond/react-context-api-starwars-sean-hammond-mi89)) (React, [JS](https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e), REST APIs)
+  + Fetches from external API using async/await. *Currently it shows Star Wars info but I plan on converting it into a custom app for a startup film studio to show info on its own characters!*
++ [Card Game](https://github.com/Sean-Hammond/js-card-game-sean-hammond-mi89) ([JS](https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e) DOM) ***In progress***
+  + Uses JS event handling for a unique twist on solitaire.
++ [Playing Card App](https://github.com/Sean-Hammond/sean-hammond-random-card-83) ([JS](https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e) DOM) | **Video coming soon**
 + [Clifton City Photos](https://github.com/Sean-Hammond/sean-hammond-photo-feed) (Bootstrap)
-+ [Hammond Studios Animated Logo](https://sites.google.com/view/spinning-logo?usp=sharing) **<<LIVE SITE!** (CSS Animation)
-+ [Agua Swole Protein Drink](https://sean-hammond.github.io/seahammond.github.io/) **<<LIVE SITE!** (Collaboration)
++ [Hammond Studios Animated Logo](https://sites.google.com/view/spinning-logo?usp=sharing) ***<<LIVE SITE!*** (CSS Animation)
++ [Agua Swole Protein Drink](https://sean-hammond.github.io/seahammond.github.io/) ***<<LIVE SITE!*** (Collaboration)
 
 ## Active Skills
-[React](https://github.com/stars/Sean-Hammond/lists/sean-hammond-react-portfolio) | JavaScript | [**Python**](https://github.com/stars/Sean-Hammond/lists/sean-hammond-python-portfolio) | REST APIs | Flask | SQLite | Bootstrap | Markdown | Video Editing
+[React](https://github.com/stars/Sean-Hammond/lists/sean-hammond-react-portfolio) | JavaScript | [Python](https://github.com/stars/Sean-Hammond/lists/sean-hammond-python-portfolio) | REST APIs | Flask | SQLite | Bootstrap | Markdown | [Databases](https://www.youtube.com/playlist?list=PLsuedY1SCNGsgUDo5yTGzQdhtIiEDxbRm) | [Video Editing and YouTube](youtube.com/@hammondsoftware)
 
 ## Familiar With
 Jest | Web Accessibility | Responsive Design | Node.JS | Swift (iOS) | Java/XML (Android) | C# | Replit
 
 ## Eager to Learn
-TypeScript | TailwindCSS | React Native | Notion 
+TypeScript | TailwindCSS | React Native | Notion
 
 ## 🎓 Credentials:
 + BAAS, Mobile/Web Applications Development (Sam Houston State University, 2021-24)
