@@ -17,13 +17,13 @@
 + [Agua Swole Protein Drink](https://sean-hammond.github.io/seahammond.github.io/) ***<<LIVE SITE!*** (Collaboration)
 
 ## Active Skills
-[React](https://github.com/stars/Sean-Hammond/lists/sean-hammond-react-portfolio) | JavaScript | [Python](https://github.com/stars/Sean-Hammond/lists/sean-hammond-python-portfolio) | REST APIs | Flask | SQLite | Bootstrap | Markdown | [Databases](https://www.youtube.com/playlist?list=PLsuedY1SCNGsgUDo5yTGzQdhtIiEDxbRm) | [Video Editing and YouTube](youtube.com/@hammondsoftware)
+[React](https://github.com/stars/Sean-Hammond/lists/sean-hammond-react-portfolio) | [JavaScript](https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e) | [Python](https://github.com/stars/Sean-Hammond/lists/sean-hammond-python-portfolio) | REST APIs | Flask | SQLite | Bootstrap | Markdown | [Databases](https://www.youtube.com/playlist?list=PLsuedY1SCNGsgUDo5yTGzQdhtIiEDxbRm) | [Debugging](https://www.linkedin.com/pulse/inspector-reason-sean-w-hammond-1oyhe/?trackingId=ZCbH6pNQQROvW%2FuHT8AiRQ%3D%3D) | [Video Editing and YouTube](youtube.com/@hammondsoftware)
 
 ## Familiar With
-Jest | Web Accessibility | Responsive Design | Node.JS | Swift (iOS) | Java/XML (Android) | C# | Replit
+Jest | Web Accessibility | Responsive Design | Node.JS | Swift (iOS) | Java/XML (Android) | C# | [Replit](https://www.linkedin.com/feed/update/urn:li:activity:7457878106255544320/)
 
 ## Eager to Learn
-TypeScript | TailwindCSS | React Native | Notion
+[TypeScript](https://www.linkedin.com/feed/update/urn:li:activity:7457878106255544320/) | [TailwindCSS](https://www.linkedin.com/feed/update/urn:li:activity:7457878106255544320/) | React Native | Notion
 
 ## 🎓 Credentials:
 + BAAS, Mobile/Web Applications Development (Sam Houston State University, 2021-24)
