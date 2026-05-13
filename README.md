@@ -7,7 +7,7 @@
 + [To Do App](https://github.com/Sean-Hammond/react-fetch-api-todo-sean-hammond-mi89) ([React](https://github.com/stars/Sean-Hammond/lists/sean-hammond-react-portfolio), APIs, [JS](https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e) filter() and map() methods)
 + [Contact List]([https://github.com/Sean-Hammond/sean-hammond-contact-list-83](https://github.com/Sean-Hammond/react-router-contextapi-contacts-sean-hammond-mi89)) (React, APIs)
   + Uses
-+ [Film Studio Database]([https://github.com/Sean-Hammond/sean-hammond-star-wars-blog-83](https://github.com/Sean-Hammond/react-context-api-starwars-sean-hammond-mi89)) (React, [JS](https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e), REST APIs)
++ [Film Character Database](https://github.com/Sean-Hammond/react-context-api-starwars-sean-hammond-mi89) (React, [JS](https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e), REST APIs)
   + Fetches from external API using async/await. *Currently it shows Star Wars info but I plan on converting it into a custom app for a startup film studio to show info on its own characters!*
 + [Card Game](https://github.com/Sean-Hammond/js-card-game-sean-hammond-mi89) ([JS](https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e) DOM) ***In progress***
   + Uses JS event handling for a unique twist on solitaire.
