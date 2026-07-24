@@ -3,14 +3,13 @@
 
 I've been building websites since 2010 and coding since 2015. Have a look at my work here!
 
-## Active Skills
-[React](https://github.com/stars/Sean-Hammond/lists/sean-hammond-react-portfolio) | [JavaScript](https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e) | [Python](https://github.com/stars/Sean-Hammond/lists/sean-hammond-python-portfolio) | REST APIs | Flask | SQLite | Bootstrap | Markdown | [Databases](https://www.youtube.com/playlist?list=PLsuedY1SCNGsgUDo5yTGzQdhtIiEDxbRm) | [Debugging](https://www.linkedin.com/pulse/inspector-reason-sean-w-hammond-1oyhe/?trackingId=ZCbH6pNQQROvW%2FuHT8AiRQ%3D%3D) | [Video Editing and YouTube](youtube.com/@hammondsoftware)
+**Active Skills**: [React](https://github.com/stars/Sean-Hammond/lists/sean-hammond-react-portfolio) | [JavaScript](https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e) | [TypeScript](https://www.linkedin.com/feed/update/urn:li:activity:7457878106255544320/) | [Python](https://github.com/stars/Sean-Hammond/lists/sean-hammond-python-portfolio) | REST APIs | Flask | SQLite | Bootstrap | [TailwindCSS](https://www.linkedin.com/feed/update/urn:li:activity:7457878106255544320/) | WCAG Accessibility | Responsive Design | Notion | Markdown | [Databases](https://www.youtube.com/playlist?list=PLsuedY1SCNGsgUDo5yTGzQdhtIiEDxbRm) | [Debugging](https://www.linkedin.com/pulse/inspector-reason-sean-w-hammond-1oyhe/?trackingId=ZCbH6pNQQROvW%2FuHT8AiRQ%3D%3D) | [Video Editing and YouTube](youtube.com/@hammondsoftware) | [Replit](https://www.linkedin.com/feed/update/urn:li:activity:7457878106255544320/) | Claude | Copilot
 
-## Familiar With
-Jest | Web Accessibility | Responsive Design | Node.JS | Swift (iOS) | Java/XML (Android) | C# | [Replit](https://www.linkedin.com/feed/update/urn:li:activity:7457878106255544320/)
+## Used Before
+Jest | Node.JS | Swift (iOS) | Java/XML (Android) | C# | Node.js
 
-## Eager to Learn
-[TypeScript](https://www.linkedin.com/feed/update/urn:li:activity:7457878106255544320/) | [TailwindCSS](https://www.linkedin.com/feed/update/urn:li:activity:7457878106255544320/) | React Native | Notion
+## Learning
+Next.js | React Native
 
 ## 💼 Projects:
 + [**Platera (Full-Stack Marketing App)**](https://github.com/Sean-Hammond/platera-react-python), building a marketing app for Latin Grill in Tampa, FL ([React](https://github.com/stars/Sean-Hammond/lists/sean-hammond-react-portfolio), [JS](https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e), [Python](https://github.com/stars/Sean-Hammond/lists/sean-hammond-python-portfolio), REST APIs, Flask, [SQLite](https://www.youtube.com/playlist?list=PLsuedY1SCNGsgUDo5yTGzQdhtIiEDxbRm), Bootstrap)
