@@ -3,13 +3,14 @@
 
 I've been building websites since 2010 and coding since 2015. Have a look at my work here!
 
-**Active Skills:** [React](https://github.com/stars/Sean-Hammond/lists/sean-hammond-react-portfolio) | [JavaScript](https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e) | [TypeScript](https://www.linkedin.com/feed/update/urn:li:activity:7457878106255544320/) | [Python](https://github.com/stars/Sean-Hammond/lists/sean-hammond-python-portfolio) | REST APIs | Flask | SQLite | Bootstrap | [TailwindCSS](https://www.linkedin.com/feed/update/urn:li:activity:7457878106255544320/) | WCAG Accessibility | Responsive Design | Notion | Markdown | Cloudinary | [Databases](https://www.youtube.com/playlist?list=PLsuedY1SCNGsgUDo5yTGzQdhtIiEDxbRm) | [Debugging](https://www.linkedin.com/pulse/inspector-reason-sean-w-hammond-1oyhe/?trackingId=ZCbH6pNQQROvW%2FuHT8AiRQ%3D%3D) | [Video Editing and YouTube](youtube.com/@hammondsoftware) | [Replit](https://www.linkedin.com/feed/update/urn:li:activity:7457878106255544320/) | Claude | Copilot
+## ⚙️ Skills
+**Using Now:** [React](https://github.com/stars/Sean-Hammond/lists/sean-hammond-react-portfolio) | [JavaScript](https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e) | [TypeScript](https://www.linkedin.com/feed/update/urn:li:activity:7457878106255544320/) | [Python](https://github.com/stars/Sean-Hammond/lists/sean-hammond-python-portfolio) | REST APIs | Flask | SQLite | Bootstrap | [TailwindCSS](https://www.linkedin.com/feed/update/urn:li:activity:7457878106255544320/) | WCAG Accessibility | Responsive Design | Notion | Markdown | Cloudinary | [Databases](https://www.youtube.com/playlist?list=PLsuedY1SCNGsgUDo5yTGzQdhtIiEDxbRm) | [Debugging](https://www.linkedin.com/pulse/inspector-reason-sean-w-hammond-1oyhe/?trackingId=ZCbH6pNQQROvW%2FuHT8AiRQ%3D%3D) | [Video Editing and YouTube](youtube.com/@hammondsoftware) | [Replit](https://www.linkedin.com/feed/update/urn:li:activity:7457878106255544320/) | Claude | Copilot
 
 **Used Before:** Jest | Node.JS | Swift (iOS) | Java/XML (Android) | C# | Node.js
 
 **Learning:** Next.js | React Native
 
-## 💼 Projects:
+## 💼 Projects
 + [**Platera (Full-Stack Marketing App)**](https://github.com/Sean-Hammond/platera-react-python), building a marketing app for Latin Grill in Tampa, FL ([React](https://github.com/stars/Sean-Hammond/lists/sean-hammond-react-portfolio), [JS](https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e), [Python](https://github.com/stars/Sean-Hammond/lists/sean-hammond-python-portfolio), REST APIs, Flask, [SQLite](https://www.youtube.com/playlist?list=PLsuedY1SCNGsgUDo5yTGzQdhtIiEDxbRm), Bootstrap)
   + I built 80% of the backend, database, and architecture on my own. But development is a team effort, so when I encountered a bug, I consulted other developers to get their perspective. It was usually related to CORS errors caused by the development environment. We are using a cloud platform called Cloudinary, and are considering building an MCP server. **The architecture is designed to support 500+ users across several restaurants.**
 + [**JavaScript Task Filter**](https://github.com/Sean-Hammond/react-fetch-api-todo-sean-hammond-mi89) ([React](https://github.com/stars/Sean-Hammond/lists/sean-hammond-react-portfolio), APIs, [JS](https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e) filter() and map() methods)
