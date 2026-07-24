@@ -3,7 +3,7 @@
 
 
 ## 💼 Projects:
-+ [Platera](https://www.linkedin.com/feed/update/urn:li:activity:7459677528215945216/), building a marketing app for Latin Grill in Tampa, FL ([React](https://github.com/stars/Sean-Hammond/lists/sean-hammond-react-portfolio), [JS](https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e), [Python](https://github.com/stars/Sean-Hammond/lists/sean-hammond-python-portfolio), REST APIs, Flask, [SQLite](https://www.youtube.com/playlist?list=PLsuedY1SCNGsgUDo5yTGzQdhtIiEDxbRm), Bootstrap)
++ [Platera](https://github.com/Sean-Hammond/platera-react-python), building a marketing app for Latin Grill in Tampa, FL ([React](https://github.com/stars/Sean-Hammond/lists/sean-hammond-react-portfolio), [JS](https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e), [Python](https://github.com/stars/Sean-Hammond/lists/sean-hammond-python-portfolio), REST APIs, Flask, [SQLite](https://www.youtube.com/playlist?list=PLsuedY1SCNGsgUDo5yTGzQdhtIiEDxbRm), Bootstrap)
 + [To Do App](https://github.com/Sean-Hammond/react-fetch-api-todo-sean-hammond-mi89) ([React](https://github.com/stars/Sean-Hammond/lists/sean-hammond-react-portfolio), APIs, [JS](https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e) filter() and map() methods)
 + [Contact List](https://github.com/Sean-Hammond/react-router-contextapi-contacts-sean-hammond-mi89) ([React](https://github.com/stars/Sean-Hammond/lists/sean-hammond-react-portfolio), APIs)
   + Uses React Router and context API to store a dynamic list of contacts. Helpful lessons for me in subsequent professinal project where I'm storing real user data.
