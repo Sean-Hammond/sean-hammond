@@ -1,6 +1,8 @@
 # Sean Hammond, Full-Stack Developer *(React, JavaScript, Python)*
 📫 swhammond2@outlook.com | 🔗 [LinkedIn](https://www.linkedin.com/in/sean-w-hammond/) | ▶️ [YouTube](https://www.youtube.com/@hammondsoftware)
 
+I've been building websites since 2010 and coding since 2015. Have a look at my work here!
+
 
 ## 💼 Projects:
 + [Platera](https://github.com/Sean-Hammond/platera-react-python), building a marketing app for Latin Grill in Tampa, FL ([React](https://github.com/stars/Sean-Hammond/lists/sean-hammond-react-portfolio), [JS](https://coursera.org/share/a05859cd2895bc2066dba1fd7d725a1e), [Python](https://github.com/stars/Sean-Hammond/lists/sean-hammond-python-portfolio), REST APIs, Flask, [SQLite](https://www.youtube.com/playlist?list=PLsuedY1SCNGsgUDo5yTGzQdhtIiEDxbRm), Bootstrap)
